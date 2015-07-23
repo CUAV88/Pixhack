@@ -7,6 +7,8 @@ Website at: www.CUAV.net
 
 Pixhack is derivative of the PX4 Open Source AutoPilot from http://pixhawk.org
 
+https://github.com/PX4/Hardware
+
 It is an open hardware design, following the OSHW 1.1 definition licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0) license.
 
 Pull requests for relevant fixes are very welcome.
